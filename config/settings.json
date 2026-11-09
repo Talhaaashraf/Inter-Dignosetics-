@@ -1,0 +1,21 @@
+{
+  "isp_name": "",
+  "download_package_mbps": 7.0,
+  "upload_package_mbps": null,
+  "reference_download_mbps": 3.2,
+  "reference_upload_mbps": 1.2,
+  "speed_tests": 3,
+  "test_interval_seconds": 5,
+  "ping_count": 20,
+  "ping_timeout_ms": 1500,
+  "traceroute_hops": 15,
+  "threshold_good": 90,
+  "threshold_warning": 70,
+  "threshold_poor": 40,
+  "report_directory": "reports",
+  "history_retention_days": 0,
+  "redact_reports": false,
+  "speedtest_consent": false,
+  "lan_iperf_host": "",
+  "wifi_bandwidth_tests": false
+}
